@@ -48,14 +48,11 @@
 
 
 ### 2. Accès Espace Administrateur (admin/1234)
-*(Insérer ici la capture du texte : "Ici Espace administrateur...")*
 
 ### 3. Accès Espace Utilisateur (user/1111)
-*(Insérer ici la capture du texte : "Ici Espace utilisateur...")*
 
 ### 4. Test d'accès refusé (403 Forbidden)
-*(Insérer ici la capture montrant l'interdiction pour 'user' d'aller sur '/admin')*
 
 ---
 
-**Projet finalisé et prêt pour évaluation.**
+
