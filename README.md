@@ -46,12 +46,17 @@
 ### 1. Formulaire de connexion personnalisé
 <img width="1600" height="422" alt="image" src="https://github.com/user-attachments/assets/602ee2d7-1834-44c0-b927-e9e8eab11799" />
 
+### 2. Accès Espace Administrateur (admin/8888)
+<img width="1600" height="367" alt="image" src="https://github.com/user-attachments/assets/4151b7a8-660d-4d0f-b8a1-e12a39c03708" />
+<img width="1600" height="297" alt="image" src="https://github.com/user-attachments/assets/2eb9c151-c72a-4bb7-a5ed-1310d4920244" />
 
-### 2. Accès Espace Administrateur (admin/1234)
-
-### 3. Accès Espace Utilisateur (user/1111)
+### 3. Accès Espace Utilisateur (user/7777)
+<img width="1600" height="373" alt="image" src="https://github.com/user-attachments/assets/e347884e-8ade-45c0-900b-a2ba7e0b5746" />
+<img width="1600" height="484" alt="image" src="https://github.com/user-attachments/assets/4e8e3ce5-ce1c-428a-9333-f27640a3f1a9" />
 
 ### 4. Test d'accès refusé (403 Forbidden)
+<img width="1600" height="421" alt="image" src="https://github.com/user-attachments/assets/4a82a88d-ec92-4e51-8d6d-f8dc6e007250" />
+<img width="1600" height="351" alt="image" src="https://github.com/user-attachments/assets/3be44b2c-923e-41fa-855e-4c609dfaecfe" />
 
 ---
 
